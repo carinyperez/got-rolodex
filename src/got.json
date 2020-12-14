@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Daenerys Targaryen",
+      "username": "dany",
+      "quote": "I am Daenerys Stormborn, of House Targaryen, of the blood of Old Valyria – I am the Dragon’s Daughter. And I swear to you, that those who would harm you will die screaming."
+  
+    },
+    {
+      "id": 2,
+      "name": "Jon Snow",
+      "username": "jon",
+      "quote": "They were born on the wrong side of the Wall — doesn’t make them monsters."
+    },
+    {
+      "id": 3,
+      "name": "Arya Stark",
+      "username": "arya",
+      "quote": "I am a wolf and will not be afraid."
+    },
+    {
+      "id": 4,
+      "name": "Sansa Stark",
+      "username": "sansa",
+      "quote": "I’m sure cutting off heads is very satisfying, but that’s not the way you get people to work together."
+    },
+    {
+      "id": 5,
+      "name": "Ned Stark",
+      "username": "ned",
+      "quote": "The man who passes the sentence should swing the sword."
+    },
+    {
+      "id": 6,
+      "name": "Khal Drogo",
+      "username": "khal",
+      "quote": "A Khal does not need a chair to sit upon. He only needs a horse."
+    },
+    {
+      "id": 7,
+      "name": "Robb Stark",
+      "username": "robb",
+      "quote": "How can I call myself King If I can't hold my own castle?"
+    },
+    {
+      "id": 8,
+      "name": "Cersei Lannister",
+      "username": "cersei",
+      "quote": "When You Play The Game Of Thrones, You Win Or You Die."
+    },
+    {
+      "id": 9,
+      "name": "Tyrion Lannister",
+      "username": "tyrion",
+      "quote": "I drink and I know things"
+    },
+    {
+      "id": 10,
+      "name": "Ramsay Bolton",
+      "username": "ramsay",
+      "quote": "If you think this has a happy ending, you haven't been paying attention."
+    }
+]   
